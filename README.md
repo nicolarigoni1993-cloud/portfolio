@@ -43,18 +43,36 @@ The project includes a modern interface, structured sections, calendar-based org
 
 ### 2. Business Management System – Python Internal Tool
 
-This project is an internal business management system created to organize operational data, documents, schedules and workflows.
+This project is an internal business management system developed to organize operational data, work areas, documents, schedules, staff availability and daily planning workflows.
 
-It was designed to improve daily work organization and simplify the management of repeated tasks and structured information.
+The goal of the project was to replace scattered manual processes with a structured browser-based tool, making information easier to access, update and monitor during daily operations.
+
+The full project is private because it contains internal workflows, sensitive business logic and operational data. The screenshots shown here are limited to safe sections of the interface.
 
 **Main features:**
 
-* Internal dashboard
-* Data organization
-* Document management
-* Scheduling and planning logic
-* Multi-section interface
-* Workflow support for business operations
+* Multi-section internal dashboard
+* Work area and terminal-style organization
+* Operational data management
+* Daily planning and scheduling tools
+* Staff availability and shift monitoring
+* Training / qualification tracking
+* Calendar-based daily workflow
+* Document and information organization
+* Internal forms and structured data entry
+* Browser-based interface usable from multiple PCs
+* Practical workflow support for repeated business operations
+
+**What this project demonstrates:**
+
+* Ability to build a real internal business tool
+* Understanding of practical workflow problems
+* Dashboard and multi-page application structure
+* Data organization and filtering
+* Calendar and scheduling logic
+* Form-based data entry
+* User-friendly interface for non-technical users
+* Practical problem solving for business operations
 
 **Technologies used:**
 
@@ -65,8 +83,20 @@ It was designed to improve daily work organization and simplify the management o
 * JavaScript
 * Local data management
 * Browser-based interface
+* Git / GitHub for project organization
 
 **Status:** Private project / internal use
+
+**Screenshots:**
+
+### Training and qualification monitoring
+
+![Management Training](management-training.png)
+
+### Daily shift planning calendar
+
+![Management Daily Shifts](management-daily-shifts.png)
+
 
 ---
 
