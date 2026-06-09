@@ -95,6 +95,20 @@ The project focuses on clean layout, responsive design and user-friendly structu
 
 **Screenshots:**
 
+### Website home page
+
+![Website Home](site-home.png)
+
+### Breeding / content section
+
+![Website Breeding Section](site-breeding.png)
+
+### Video section
+
+![Website Video Section](site-video.png)
+
+**Screenshots:**
+
 ### Home dashboard
 
 ![Remember Home](remember-home.png)
