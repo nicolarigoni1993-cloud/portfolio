@@ -93,6 +93,20 @@ The project focuses on clean layout, responsive design and user-friendly structu
 
 **Status:** Portfolio project
 
+**Screenshots:**
+
+### Home dashboard
+
+![Remember Home](remember-home.png)
+
+### Events calendar
+
+![Remember Events](remember-events.png)
+
+### Shifts and monthly overview
+
+![Remember Shifts](remember-shifts.png)
+
 ---
 
 ## Skills
@@ -111,6 +125,6 @@ The project focuses on clean layout, responsive design and user-friendly structu
 
 ## Contact
 
-**Email:** [nicolarigoni1993@gmail.com](mailto:nicolarigoni1993@gmail.com)
-**LinkedIn:** https://www.linkedin.com/in/nicola-rigoni-b9443a367
-**GitHub:** https://github.com/nicolarigoni1993-cloud
+- Email: nicolarigoni1993@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nicola-rigoni-b9443a367
+- GitHub: https://github.com/nicolarigoni1993-cloud
