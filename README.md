@@ -8,6 +8,23 @@ This portfolio presents selected personal and internal projects. Some repositori
 
 ---
 
+## Current focus
+
+I am currently focused on **100% remote freelance and contract work** involving:
+
+- Bug fixing and maintenance on existing web applications
+- React / TypeScript feature development
+- Python / FastAPI backend work
+- REST API and JSON integrations
+- Supabase / PostgreSQL data flows
+- Authentication and authorization debugging
+- Responsive and mobile usability improvements
+- Manual QA and regression testing
+- Security-minded web application review, including OWASP-oriented checks, access-control issues and Supabase RLS review
+- Practical internal tools and business workflows
+
+---
+
 ## Projects
 
 ### 1. Remember – Productivity Web App
@@ -21,9 +38,11 @@ The project includes a modern responsive interface, structured sections, calenda
 - Reminders and deadlines management
 - Notes organization
 - Appointments and planning sections
+- Shift management
+- Finance tracking
 - Responsive interface
-- Account and cloud-based features
-- Productivity dashboard
+- Account and user-specific data flows
+- Cloud-backed persistence
 
 **Technologies used:**
 
@@ -31,11 +50,11 @@ The project includes a modern responsive interface, structured sections, calenda
 - TypeScript
 - JavaScript
 - Supabase
+- PostgreSQL-backed data
 - HTML
 - CSS
 - Vite
 - GitHub
-- Vercel
 
 **Status:** In development / private repository
 
@@ -57,7 +76,7 @@ The project includes a modern responsive interface, structured sections, calenda
 
 ### 2. Business Management System – Python / FastAPI
 
-This project is an internal business management application developed to organize operational data, work areas, documents, schedules, staff availability and daily planning workflows.
+This project is an internal business management application developed to organize operational data, work areas, documents, schedules, staff availability and recurring workflows.
 
 The goal is to replace scattered manual processes with a structured browser-based tool, making information easier to access, update and monitor during daily operations.
 
@@ -70,7 +89,7 @@ The full project is private because it contains internal workflows, business log
 - Daily planning and scheduling tools
 - Staff availability and shift monitoring
 - Training and qualification tracking
-- Calendar-based workflow
+- Calendar-based workflows
 - Document and information organization
 - Internal forms and structured data entry
 - Browser-based interface usable from multiple PCs
@@ -83,7 +102,8 @@ The full project is private because it contains internal workflows, business log
 - HTML
 - CSS
 - JavaScript
-- Local data management
+- JSON / structured local data
+- REST-style application flows
 - Git
 - GitHub
 
@@ -141,6 +161,21 @@ https://irapacidieddy.com/
 
 ---
 
+## How I work on existing code
+
+I prefer focused, testable changes over unnecessary rewrites.
+
+Typical workflow:
+
+1. Reproduce the issue
+2. Inspect the affected code, API and data flow
+3. Identify the root cause
+4. Implement the smallest reliable fix or feature
+5. Test the affected path and likely regressions
+6. Document the change when useful
+
+---
+
 ## Skills
 
 - React and TypeScript development
@@ -152,15 +187,20 @@ https://irapacidieddy.com/
 - PostgreSQL-backed application work
 - Python and FastAPI development
 - REST API integration
+- JSON and SQL workflows
+- Authentication / authorization debugging
 - Git and GitHub workflow
 - Manual web testing and QA
+- OWASP-oriented web security review
+- Access-control / IDOR-oriented testing in authorized environments
+- Supabase RLS review and remediation verification
 - Practical problem solving for small businesses and teams
 
 ---
 
 ## Availability
 
-Available for remote freelance and contract work involving:
+Available for **100% remote** freelance and contract work involving:
 
 - Small bug fixes
 - Feature implementation
@@ -168,7 +208,9 @@ Available for remote freelance and contract work involving:
 - Web application development
 - API integrations
 - Business tools
-- Ongoing maintenance
+- QA / regression testing
+- Security-minded web review
+- Ongoing maintenance with flexible scheduling
 
 ---
 
