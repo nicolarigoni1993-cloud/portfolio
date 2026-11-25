@@ -13,24 +13,70 @@
   <nav><a href="studio.html">Studio</a><a href="services.html">Services</a><a href="products.html">Products</a><a href="labs.html">Labs</a><a href="contact.html">Contact</a></nav>
 </header>
 <main>
-<section class="hero compact">
-  <p class="eyebrow">SERVICES</p>
-  <h1>Build, fix, evolve.</h1>
-  <p class="intro">Ninth Slate works across product development, backend systems, AI-enabled workflows, security-minded engineering and interactive software.</p>
-</section>
-<section class="section">
-  <div class="stack">
-    <article class="service"><span>01</span><div><h2>Software Engineering</h2><p>Web applications, backend systems, APIs, dashboards, SaaS, mobile-oriented products and business tools.</p></div></article>
-    <article class="service"><span>02</span><div><h2>AI Systems</h2><p>Assistants, agents, RAG workflows, automation and AI-enabled product features designed around real use cases.</p></div></article>
-    <article class="service"><span>03</span><div><h2>Security Engineering</h2><p>Security-minded architecture, authorization analysis, application review and technical tooling in authorized environments.</p></div></article>
-    <article class="service"><span>04</span><div><h2>Interactive Development</h2><p>Games, simulations and interactive systems for desktop and mobile environments.</p></div></article>
-    <article class="service"><span>05</span><div><h2>Product Improvement</h2><p>Bug fixing, QA, performance work, responsive/mobile improvements, maintenance and release hardening.</p></div></article>
+<section class="hero compact hero-layout service-hero">
+  <div class="hero-copy">
+    <p class="eyebrow">SERVICES</p>
+    <h1>Build, fix, evolve.</h1>
+    <p class="intro">Ninth Slate works across product development, backend systems, AI-enabled workflows, security-minded engineering and interactive software.</p>
+  </div>
+  <div class="service-radar" aria-hidden="true">
+    <div class="radar-grid"></div>
+    <div class="radar-ring r1"></div><div class="radar-ring r2"></div><div class="radar-ring r3"></div>
+    <div class="radar-sweep"></div>
+    <span class="radar-label rl1">WEB</span><span class="radar-label rl2">API</span><span class="radar-label rl3">AI</span><span class="radar-label rl4">SEC</span><span class="radar-label rl5">QA</span>
+    <div class="radar-center">NS</div>
   </div>
 </section>
-<section class="section band">
-  <p class="eyebrow">WORKING STYLE</p>
-  <h2>Clear scope. Focused changes. Verifiable results.</h2>
-  <p class="intro">We work iteratively: understand the current system, identify the real issue or requirement, implement the smallest reliable change, test the result and document what changed.</p>
+
+<section class="signal-strip"><span>DISCOVER</span><i></i><span>SCOPE</span><i></i><span>ENGINEER</span><i></i><span>VERIFY</span></section>
+
+<section class="section">
+  <p class="eyebrow">WHAT WE DO</p>
+  <div class="stack service-stack">
+    <article class="service">
+      <span>01</span>
+      <div><h2>Software Engineering</h2><p>Web applications, backend systems, APIs, dashboards, SaaS, mobile-oriented products and business tools.</p>
+      <div class="chip-row"><b>React</b><b>TypeScript</b><b>FastAPI</b><b>PostgreSQL</b></div></div>
+      <div class="service-meter"><small>BUILD</small><strong>PRODUCT SYSTEMS</strong><em>01</em></div>
+    </article>
+    <article class="service">
+      <span>02</span>
+      <div><h2>AI Systems</h2><p>Assistants, agents, RAG workflows, automation and AI-enabled product features designed around real use cases.</p>
+      <div class="chip-row"><b>RAG</b><b>Agents</b><b>Evaluation</b><b>Automation</b></div></div>
+      <div class="service-meter"><small>DESIGN</small><strong>INTELLIGENT FLOWS</strong><em>02</em></div>
+    </article>
+    <article class="service">
+      <span>03</span>
+      <div><h2>Security Engineering</h2><p>Security-minded architecture, authorization analysis, application review and technical tooling in authorized environments.</p>
+      <div class="chip-row"><b>Auth</b><b>RLS</b><b>Access Control</b><b>Review</b></div></div>
+      <div class="service-meter"><small>HARDEN</small><strong>ACCESS & DATA</strong><em>03</em></div>
+    </article>
+    <article class="service">
+      <span>04</span>
+      <div><h2>Interactive Development</h2><p>Games, simulations and interactive systems for desktop and mobile environments.</p>
+      <div class="chip-row"><b>Unity</b><b>C#</b><b>Simulation</b><b>Mobile</b></div></div>
+      <div class="service-meter"><small>CREATE</small><strong>INTERACTIVE WORLDS</strong><em>04</em></div>
+    </article>
+    <article class="service">
+      <span>05</span>
+      <div><h2>Product Improvement</h2><p>Bug fixing, QA, performance work, responsive/mobile improvements, maintenance and release hardening.</p>
+      <div class="chip-row"><b>Debugging</b><b>QA</b><b>Performance</b><b>Release</b></div></div>
+      <div class="service-meter"><small>EVOLVE</small><strong>EXISTING PRODUCTS</strong><em>05</em></div>
+    </article>
+  </div>
+</section>
+
+<section class="section workflow-band">
+  <div>
+    <p class="eyebrow">WORKING STYLE</p>
+    <h2>Clear scope. Focused changes. Verifiable results.</h2>
+  </div>
+  <div class="workflow-steps">
+    <div><span>01</span><b>Understand</b><small>Current system & constraints</small></div>
+    <div><span>02</span><b>Implement</b><small>Smallest reliable change</small></div>
+    <div><span>03</span><b>Verify</b><small>Workflow & regression checks</small></div>
+    <div><span>04</span><b>Deliver</b><small>Clear result & notes</small></div>
+  </div>
 </section>
 </main>
 <footer><span>NINTH SLATE</span><span>Software · AI · Security · Interactive</span></footer>
